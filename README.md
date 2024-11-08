@@ -2,7 +2,8 @@
 
 This is a simple tribute webpage created using HTML and CSS to honor and showcase the life and achievements of [Person’s Name]. This project is beginner-friendly and demonstrates the basics of web development using HTML and CSS. )
 ## Demo
-![Tribute Page Screenshot](screenshot.png)
+![Tribute Page Screenshot](![Screenshot 2024-11-08 121043](https://github.com/user-attachments/assets/405d7fdc-2056-42b3-bc35-5b8f65df544d)
+)
 
 ## Features
 - **Responsive Design**: Works on desktop and mobile devices.
