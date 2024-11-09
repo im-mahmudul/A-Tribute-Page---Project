@@ -34,11 +34,10 @@ header p {
     margin-bottom: 20px;
 }
 
-.photo img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin: 20px 0;
+.image-container img {
+    width: 200px; 
+    max-width: 300px; 
+    height: auto; 
 }
 
 .bio, .timeline {
@@ -60,3 +59,4 @@ footer {
     font-size: 14px;
     color: #95a5a6;
 }
+
