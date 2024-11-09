@@ -1,6 +1,6 @@
 # Tribute Webpage
 
-This is a simple tribute webpage created using HTML and CSS to honor and showcase the life and achievements of [Person’s Name]. This project is beginner-friendly and demonstrates the basics of web development using HTML and CSS. )
+This is a simple tribute webpage created using HTML and CSS to honor and showcase the life and achievements of Mawlana Abdul Hamid Khan Bhashani. This project is beginner-friendly and demonstrates the basics of web development using HTML and CSS.
 ## Demo
 Tribute Page Screenshot <img width="1122" alt="image" src="https://github.com/user-attachments/assets/9ef4072f-b4d9-40ef-b184-9ae3c61e5d37">
 
